@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "todolists",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authtodolists8ca35fdf",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

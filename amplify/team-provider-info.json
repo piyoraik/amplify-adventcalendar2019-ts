@@ -10,6 +10,11 @@
       "StackName": "amplify-todolists-dev-91433",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:933345684592:stack/amplify-todolists-dev-91433/3b77de00-20ba-11ec-8b71-0a2e2ddd9335",
       "AmplifyAppId": "d19jypfdjxusqs"
+    },
+    "categories": {
+      "auth": {
+        "todolists8ca35fdf": {}
+      }
     }
   }
 }
